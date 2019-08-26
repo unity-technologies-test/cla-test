@@ -1,3 +1,3 @@
 # cla-test
 
-The most amazing change ever!
+The almost amazing change ever!
